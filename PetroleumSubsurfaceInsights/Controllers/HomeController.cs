@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using PetroleumSubsurfaceInsights.Models;
+using PetroleumSubsurfaceInsights.ViewModels;
 using System.Diagnostics;
 
 namespace PetroleumSubsurfaceInsights.Controllers

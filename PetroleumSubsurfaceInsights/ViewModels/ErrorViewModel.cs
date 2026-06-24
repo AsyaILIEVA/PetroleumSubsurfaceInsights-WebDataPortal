@@ -1,4 +1,4 @@
-namespace PetroleumSubsurfaceInsights.Models
+namespace PetroleumSubsurfaceInsights.ViewModels
 {
     public class ErrorViewModel
     {
